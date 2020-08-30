@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31b378c76902ee2ffd93f0c35c9eef79",
+    "revision": "246de9f4c7e9fb115654e0e67a04fbab",
     "url": "/reminderFrontEndReact/index.html"
   },
   {
-    "revision": "da495e78abdc96bdda40",
+    "revision": "6e24c32907f68bcff392",
     "url": "/reminderFrontEndReact/static/css/main.19925d6b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reminderFrontEndReact/static/js/2.ec74ec21.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da495e78abdc96bdda40",
-    "url": "/reminderFrontEndReact/static/js/main.1a41bc45.chunk.js"
+    "revision": "6e24c32907f68bcff392",
+    "url": "/reminderFrontEndReact/static/js/main.ed1c9d2b.chunk.js"
   },
   {
     "revision": "2ae741769abc398a0d7c",
