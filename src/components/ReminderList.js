@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
-import DeleteReminder from "./DeleteReminder";
+
 class ReminderList extends Component {
   state = {
     reminders: [],
