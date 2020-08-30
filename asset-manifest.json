@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reminderFrontEndReact/static/css/main.19925d6b.chunk.css",
+    "main.js": "/reminderFrontEndReact/static/js/main.1a41bc45.chunk.js",
+    "main.js.map": "/reminderFrontEndReact/static/js/main.1a41bc45.chunk.js.map",
+    "runtime-main.js": "/reminderFrontEndReact/static/js/runtime-main.737a1c45.js",
+    "runtime-main.js.map": "/reminderFrontEndReact/static/js/runtime-main.737a1c45.js.map",
+    "static/js/2.ec74ec21.chunk.js": "/reminderFrontEndReact/static/js/2.ec74ec21.chunk.js",
+    "static/js/2.ec74ec21.chunk.js.map": "/reminderFrontEndReact/static/js/2.ec74ec21.chunk.js.map",
+    "index.html": "/reminderFrontEndReact/index.html",
+    "precache-manifest.b41854951aa05343e9971bda0e6d0e68.js": "/reminderFrontEndReact/precache-manifest.b41854951aa05343e9971bda0e6d0e68.js",
+    "service-worker.js": "/reminderFrontEndReact/service-worker.js",
+    "static/css/main.19925d6b.chunk.css.map": "/reminderFrontEndReact/static/css/main.19925d6b.chunk.css.map",
+    "static/js/2.ec74ec21.chunk.js.LICENSE.txt": "/reminderFrontEndReact/static/js/2.ec74ec21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.737a1c45.js",
+    "static/js/2.ec74ec21.chunk.js",
+    "static/css/main.19925d6b.chunk.css",
+    "static/js/main.1a41bc45.chunk.js"
+  ]
+}
