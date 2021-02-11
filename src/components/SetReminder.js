@@ -31,7 +31,7 @@ class SetReminder extends Component {
     ) {
       this.setState({ errMsg: true });
     } else {
-      axios.post(`http://localhost:8080/createReminder/${this.state.email}`, {
+      axios.post(`/createReminder/${this.state.email}`, {
         eventName: this.state.eventName,
         eventReminderDate: this.state.eventReminderDate,
         eventReminderTime: this.state.eventReminderTime,

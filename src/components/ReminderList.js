@@ -10,7 +10,7 @@ class ReminderList extends Component {
     const user = JSON.parse(localStorage.getItem("user"));
     const email = user[1];
 
-    fetch(`http://localhost:8080/getRemindersByEmailId/${email}`)
+    fetch(`/getRemindersByEmailId/${email}`)
       .then((response) => response.json())
       .then((data) => this.setState({ reminders: data }));
   }

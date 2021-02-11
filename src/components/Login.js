@@ -18,7 +18,7 @@ class Login extends Component {
       localStorage.setItem("user", JSON.stringify(user));
     }
 
-    axios.post(`http://localhost:8080/register`, {
+    axios.post(`/register`, {
       email: email,
     });
   };

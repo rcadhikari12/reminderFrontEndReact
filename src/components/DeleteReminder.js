@@ -8,10 +8,7 @@ class DeleteReminder extends Component {
   };
 
   handleClick = () => {
-    axios.delete(
-      `http://localhost:8080/deleteReminder/${this.props.reminderId}`,
-      {}
-    );
+    axios.delete(`/deleteReminder/${this.props.reminderId}`, {});
     window.alert("Reminder deleted successfully...");
     this.setState({ redirect: !this.state.redirect });
   };
